@@ -192,7 +192,13 @@ Challenge 5  ──► artifacts/km_labels_full.npy   ──► Challenge 6 (Fig
 
 Link to video: https://udistritaleduco-my.sharepoint.com/:v:/g/personal/aaibanezh_udistrital_edu_co/IQBEy2Wr0sQKS4aalJwq4EklAWOLnAylBsHtSGu2Dcq0tnk?e=VPN9ce&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+The video presents the findings of “Challenge 6: Advanced Unsupervised Learning.” The study explores anomaly detection and representation learning applied to a massive dataset of air quality data from the EPA (U.S. Environmental Protection Agency).
+Throughout the presentation, the methodology and results obtained by comparing three unsupervised models are detailed:
+Standard AutoEncoder (AE)
+Variational AutoEncoder (VAE)
+Isolation Forest (as a classic baseline)
 
+These deep reconstruction models made it possible to identify extreme and anomalous environmental events in the real world without the need for labels, and demonstrate how this approach overcomes the limitations of traditional clustering analyzed in previous challenges.
 
 ## Timestamps
 [0:00](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=3Xe28q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) - Greetings
