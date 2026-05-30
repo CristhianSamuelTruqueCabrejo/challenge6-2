@@ -178,6 +178,7 @@ vae.eval()
 
 ---
 
+
 ## Cross-Challenge Data Flow
 
 ```
@@ -186,3 +187,28 @@ Challenge 2  ──► final_dataset_all_elements.csv ──► Challenge 5
 
 Challenge 5  ──► artifacts/km_labels_full.npy   ──► Challenge 6 (Figure 5, synthesis)
 ```
+
+## Video
+
+Link to video: https://udistritaleduco-my.sharepoint.com/:v:/g/personal/aaibanezh_udistrital_edu_co/IQBEy2Wr0sQKS4aalJwq4EklAWOLnAylBsHtSGu2Dcq0tnk?e=VPN9ce&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
+## Timestamps
+[0:00](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=3Xe28q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) - Greetings
+
+[0:35](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=SIIVaV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzYuNTF9fQ%3D%3D) - Introduction and Objectives
+
+[1:35](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=ymEtoa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTUuNzl9fQ%3D%3D) - Methodology
+
+[2:33](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=P3bBPt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTUzLjc2fX0%3D) - Training Convergence and Ablation 
+
+[3:40](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=NrXgS0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjIwLjExfX0%3D) - Representation Learning
+
+[4:33](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=0vQmo2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjczLjA1fX0%3D) - Anomaly Detection Results
+
+[5:06](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=YrHD0E&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA1LjExfX0%3D) - t-SNE and UMAP
+
+[7:26](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=pFIXLf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ2Ljc4fX0%3D) - Cross Challenge Synthesis
+
+[8:25](https://udistritaleduco-my.sharepoint.com/:v:/r/personal/aaibanezh_udistrital_edu_co/Documents/challenge_6-2_video_final.mp4?csf=1&web=1&e=OKCrh5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA0LjE5fX0%3D) - Conclusions
