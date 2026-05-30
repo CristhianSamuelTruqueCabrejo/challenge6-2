@@ -1,0 +1,4 @@
+Algorithm,n_clusters,Noise %,Silhouette,Davies-Bouldin,Calinski-H,ARI (post-hoc)
+K-Means (k=2),2,—,0.2313 ± 0.0250,2.2833 ± 0.0466,17608.5 ± 144.5,0.3691
+DBSCAN (eps=1.5),3,11.43%,0.3762,0.9191,797.9,-0.0052
+"Hierarchical (average, k=2)",2,—,0.6007,0.8742,1355.8,0.0249

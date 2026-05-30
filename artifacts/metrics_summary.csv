@@ -1,0 +1,4 @@
+Model,Anomaly rate mean,Anomaly rate std,Threshold mean,Silhouette,Spearman vs IF
+AE (latent=16),0.050,0.0001,0.03816,0.1143,0.4857
+"VAE (β=1.0, latent=16)",0.050,0.0001,0.30780,0.0963,0.6274
+Isolation Forest,0.050,0.0000,—,—,1.000

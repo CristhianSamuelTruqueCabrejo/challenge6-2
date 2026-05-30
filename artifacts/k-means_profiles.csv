@@ -1,0 +1,3 @@
+_cluster,State Code,County Code,co_mean,co_max,so2_mean,so2_max,no2_mean,no2_max,o3_mean,o3_max,pm25_frm_fem_mass_mean,pm25_frm_fem_mass_max,pm25_non_frm_fem_mass_mean,pm25_non_frm_fem_mass_max,pm10_mass_mean,pm10_mass_max,pmc_mass_mean,pmc_mass_max,pm25_speciation_mean,pm25_speciation_max,pm10_speciation_mean,pm10_speciation_max,aqi_lag1,aqi_lag2,aqi_lag3,_count
+0,30.606,81.364,0.217,0.419,0.431,1.449,5.933,14.905,0.032,0.04,5.677,11.438,6.03,13.187,14.565,15.48,8.779,23.097,138.998,445.704,14.689,34.102,39.207,40.182,40.8,111854
+1,26.541,82.622,0.317,0.727,0.644,2.417,9.808,24.149,0.038,0.049,12.319,27.915,10.366,21.918,33.186,37.931,18.555,63.923,139.239,427.612,32.777,110.894,61.049,57.652,55.464,32961
